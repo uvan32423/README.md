@@ -5,7 +5,7 @@
  
 This project uses a YOLOv8 model to detect sidewalk objects like people, vehicles, bicycles, benches, chairs, bollards, street lights, and traffic signs. The model was trained in Google Colab, exported as an ONNX file, and tested on a Jetson Orin Nano.
 
-This is an image of a crowded new york street, my model identifies a traffic sign and a person
+This is an image of a crowded new york street, the model identifies a traffic sign and a person
 <img width="433" height="695" alt="sidewalk_model demo" src="https://github.com/user-attachments/assets/75d27832-b534-4fef-86da-3d12c59a0225" />
 
 ## The Algorithm
