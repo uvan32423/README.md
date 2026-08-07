@@ -41,7 +41,12 @@ In the future, I would like to add text-to-speech so the Jetson can say detected
 
 
 
-[View a video explanation here](video link)
+In the following video, I run through the code
+
+https://drive.google.com/file/d/1_YUE4MKl0KOxVD2ymkdhxC8Egimrsd39/view?usp=sharing
+
+
+
 
 
 
