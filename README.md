@@ -19,15 +19,15 @@ The Python script loads `best.onnx`, runs it with the Ultralytics library, and u
 Put best.onnx in the project folder.
 Install the required libraries:
 
-    pip3 install ultralytics opencv-python
+pip3 install ultralytics opencv-python
 
 Run the live detection script:
 
-    python3 sidewalk_detect.py
+python3 sidewalk_detect.py
 
-   To test a single image, run:
+To test a single image, run:
 
-    python3 test_image.py
+python3 test_image.py
 
 If the camera does not work, change CAMERA_INDEX in the script. If detections are too low, lower the confidence value.
 
